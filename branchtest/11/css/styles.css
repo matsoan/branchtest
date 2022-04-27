@@ -1,37 +1,31 @@
-#cont1{
+#cont1 {
     display: inline;
-    
+
 }
-
-
 #cover {
     width: 20%;
     padding: 1%;
     margin: 1%;
 }
-
-#title{
+#title {
     margin-top: 2%;
     padding: 2%;
 }
-
-#albums{
+#albums {
     padding: 2%;
 }
-#premios{
+#premios {
     margin-top: 2%;
 }
-#premio{
+#premio {
     margin-bottom: 2%;
-
+}
+h2 {
+    text-transform: uppercase;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
 }
 
 body {
-    background-image: url("../images/backg.png");
-    color:white;
-   }
-
-h2{
-    text-transform: uppercase;
-    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    background-image: url("../images/redbackg.jpg");
+    color: white;
 }
