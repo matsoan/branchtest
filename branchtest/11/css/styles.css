@@ -20,12 +20,17 @@
 #premio {
     margin-bottom: 2%;
 }
-h2 {
+h2  {
     text-transform: uppercase;
     font-family: Copperplate, "Copperplate Gothic Light", fantasy;
 }
 
 body {
-    background-image: url("../images/redbackg.jpg");
-    color: white;
+    background-image: url("../images/whitebg.jpg");
+    color: black;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
 }
